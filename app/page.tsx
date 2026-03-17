@@ -73,7 +73,7 @@ export default function Home() {
             </span>
           </div>
           <a
-            href="https://github.com/piyush"
+            href="https://github.com/P1Piyush/ai-resume-analyzer"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 text-brand-muted hover:text-brand-text transition-colors text-sm font-mono"
